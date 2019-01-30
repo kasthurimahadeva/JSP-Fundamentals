@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\JSP\self_learning\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1781443611.index
